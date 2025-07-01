@@ -27,14 +27,14 @@ A fully responsive Angular web app for showcasing news articles with modern UI, 
 
 ## 🧪 Setup & Run Locally
 
-Clone the repository
-Navigate to the project directory
-Install dependencies:npm install
+Clone the repository.
+Navigate to the project directory.
+Install dependencies:npm install.
 Run the development server:
     For Node v17+, use the OpenSSL fix
     bash/PS
     $env:NODE_OPTIONS="--openssl-legacy-provider"
-    npm start / ng serve
+    npm start / ng serve.
 Open localhost in your browser to view the website.
 
 
@@ -57,4 +57,15 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+##Screenshots
+![image](https://github.com/user-attachments/assets/c22e86d4-eb25-465e-938d-b5ae6f882108)
+![image](https://github.com/user-attachments/assets/18e86d20-ed7b-4649-9cf9-01a251ff57d3)
+![image](https://github.com/user-attachments/assets/159b0d09-3473-4cb9-b64c-fc9ea7bc9d46)
+![image](https://github.com/user-attachments/assets/f4bd23d2-8cc0-4d8b-a8f3-d7e1bba00553)
+
+
+
+
+
 
