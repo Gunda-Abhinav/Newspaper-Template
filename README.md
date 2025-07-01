@@ -1,6 +1,42 @@
 # Newspaper
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+
+
+# 🗞️ Modern Newspaper Website
+
+A fully responsive Angular web app for showcasing news articles with modern UI, animations, filtering, and popups.
+
+
+## 🚀 Features
+
+- ✅ **Responsive Design** (Tailwind CSS)
+- 🧭 **Fixed Navigation Bar** (Home, Top News, What's New, Weekly News)
+- 📰 **News Modal Popup** (click to read details without page reload)
+- 🗂️ **Filterable News Sections** (`Lifestyle`, `Travel`, `Fashion`, `Sports`, `Technology`)
+- ⚡ **Fast performance** using Angular + Tailwind
+
+
+## 🛠️ Tech Stack
+
+- **Angular 16+**
+- **Tailwind CSS** (Utility-first responsive styling)
+- **Angular Router**
+- **Angular Animations**
+- **HTML5 + TypeScript**
+
+
+## 🧪 Setup & Run Locally
+
+Clone the repository
+Navigate to the project directory
+Install dependencies:npm install
+Run the development server:
+    For Node v17+, use the OpenSSL fix
+    bash/PS
+    $env:NODE_OPTIONS="--openssl-legacy-provider"
+    npm start / ng serve
+Open localhost in your browser to view the website.
+
 
 ## Development server
 
@@ -18,10 +54,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+

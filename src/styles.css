@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth transition for theme switch */
+body {
+  @apply transition-colors duration-300;
+}
+html {
+  background-color: white;
+}
+.dark html {
+  background-color: #1A1A1A;
+  color: white;
+}
+
